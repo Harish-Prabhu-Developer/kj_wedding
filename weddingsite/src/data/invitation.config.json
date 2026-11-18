@@ -1,0 +1,104 @@
+{
+  "couple": {
+    "first": "Prakash Vel",
+    "second": "Agnes",
+    "firstTa": "பிரகாஷ் வேல்",
+    "secondTa": "அக்னிஸ்",
+    "monogram": "P&A",
+    "hashtag": "#PrakashAndAgnes",
+    "groom": {
+      "role": "The Groom",
+      "name": "Prakash Vel",
+      "desc": "Ready to begin this beautiful new chapter of life with love, devotion, and cherished blessings."
+    },
+    "bride": {
+      "role": "The Bride",
+      "name": "Agnes",
+      "desc": "Stepping gracefully into a new journey of love, happiness, and lifelong companionship."
+    }
+  },
+  "dateLabel": "12 to 15 December 2026",
+  "countdownTarget": "2026-12-13T04:30:00+05:30",
+  "countdownNote": "Muhurtham begins at 4:30 AM IST on Sunday, 13 December 2026",
+  "hero": {
+    "inviteLine": "request the pleasure of your company at their wedding celebrations",
+    "welcome": "With the blessings of our elders and the love of our families, we invite you to our engagement, wedding and reception. Your presence and your blessings will make these days complete.",
+    "welcomeTa": "உங்கள் வருகையையும் ஆசிகளையும் அன்புடன் வேண்டுகிறோம்."
+  },
+  "stream": {
+    "platform": "YouTube",
+    "url": "",
+    "start": "2026-12-13T04:15:00+05:30",
+    "end": "2026-12-13T07:00:00+05:30",
+    "venueId": "temple"
+  },
+  "venues": [
+    {
+      "id": "svkp",
+      "name": "SVK Mahal, Pollachi",
+      "ta": "எஸ்.வி.கே. மஹால், பொள்ளாச்சி",
+      "q": "SVK Mahal, Pollachi"
+    },
+    {
+      "id": "temple",
+      "name": "Sri Subramaniyar Thirukkoyil, Pollachi",
+      "ta": "ஸ்ரீ சுப்பிரமணியர் திருக்கோயில், பொள்ளாச்சி",
+      "q": "ஸ்ரீ சுப்பிரமணியர் திருக்கோயில், பொள்ளாச்சி"
+    },
+    {
+      "id": "svks",
+      "name": "SVK Mandapam, Sivakasi",
+      "ta": "எஸ்.வி.கே. மண்டபம், சிவகாசி",
+      "q": "SVK Mandapam, Sivakasi"
+    }
+  ],
+  "events": [
+    {
+      "key": "engagement",
+      "name": "Engagement",
+      "ta": "நிச்சயதார்த்தம்",
+      "date": "2026-12-12",
+      "time": "6:30 PM",
+      "end": "7:30 PM",
+      "venueId": "svkp",
+      "icon": "rings"
+    },
+    {
+      "key": "wedding",
+      "name": "Wedding ceremony",
+      "ta": "திருமணம்",
+      "date": "2026-12-13",
+      "time": "4:30 AM",
+      "end": "6:30 AM",
+      "venueId": "temple",
+      "icon": "dawn",
+      "live": true
+    },
+    {
+      "key": "lunch",
+      "name": "Wedding lunch",
+      "ta": "மதிய உணவு",
+      "date": "2026-12-13",
+      "time": "Afternoon",
+      "end": "",
+      "venueId": "temple",
+      "icon": "meal"
+    },
+    {
+      "key": "reception",
+      "name": "Reception",
+      "ta": "வரவேற்பு",
+      "date": "2026-12-15",
+      "time": "1:00 PM",
+      "end": "2:00 PM",
+      "venueId": "svks",
+      "icon": "glass"
+    }
+  ],
+  "icons": {
+    "rings": "<circle cx=\"8.5\" cy=\"14.5\" r=\"5\"/><circle cx=\"15.5\" cy=\"14.5\" r=\"5\"/><path d=\"M12 2.5l2 2.2-2 2.2-2-2.2z\"/>",
+    "dawn": "<path d=\"M3 18h18M6 18a6 6 0 0 1 12 0M12 5v3M4.5 9l2 2M19.5 9l-2 2\"/>",
+    "meal": "<path d=\"M7 3v8M5 3v5a2 2 0 0 0 4 0V3M7 11v10M17 21V3c-2 1-3.5 4-3.5 8H17\"/>",
+    "glass": "<path d=\"M5 4h14l-7 8zM12 12v8M8 20h8\"/>"
+  }
+}
